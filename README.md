@@ -13,6 +13,10 @@ A modern, responsive Google Play Store clone built with React and Tailwind CSS. 
 - **Bottom Navigation** - Mobile-friendly navigation bar
 - **Interactive UI** - Hover effects and smooth transitions throughout
 
+
+<img width="1884" height="1649" alt="image" src="https://github.com/user-attachments/assets/16ff6114-4b6e-43fa-bcbb-4cb239ecd3d9" />
+
+
 ## Tech Stack
 
 - **React** - Frontend framework for building the UI
