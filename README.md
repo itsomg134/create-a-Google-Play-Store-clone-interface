@@ -115,8 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [React](https://reactjs.org/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 
-## Contact
-
 ## 📧 Contact
 
 Om Gedam
